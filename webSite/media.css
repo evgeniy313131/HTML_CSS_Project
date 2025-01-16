@@ -1,0 +1,12 @@
+@media(max-width:1248px){
+    .info__item{
+        padding: 30px;
+
+    }
+    info__title{
+        font-style: 16px;
+    }
+    info__text{
+        font-style: 14px;
+    }
+}
